@@ -3,6 +3,6 @@ Final Project for NLP-2 Master's course.
 
 
 ## Dataset:
-### Paper: (DepressionEmo: A novel dataset for multilabel classification of depression
-emotions)[https://arxiv.org/pdf/2401.04655]
-### Dataset Repo: (abuBakarSiddiqurRahman/DepressionEmo)[https://github.com/abuBakarSiddiqurRahman/DepressionEmo]
+### Paper: (https://arxiv.org/pdf/2401.04655)[DepressionEmo: A novel dataset for multilabel classification of depression
+emotions]
+### Dataset Repo: (abuBakarSiddiqurRahman/DepressionEmo)(https://github.com/abuBakarSiddiqurRahman/DepressionEmo)[abuBakarSiddiqurRahman/DepressionEmo]
